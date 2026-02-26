@@ -7,7 +7,7 @@ I am obsessed with execution speed and shipping products that solve real problem
 
 ---
 
-## 🛠️ What I've Shipped Recently (Builder's Log)
+## 🛠️ What I've Shipped Recently 
 
 I believe in building in public and launching fast. Here is what I shipped recently:
 
