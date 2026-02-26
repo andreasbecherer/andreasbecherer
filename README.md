@@ -35,11 +35,9 @@ I believe in building in public and launching fast. Here is what I shipped recen
 
 ## ⚡ Tech Stack & Interests
 
-* **Software:** Python, C++, JavaScript/TypeScript, Supabase, API Integration
+* **Software:** Python, JavaScript/TypeScript, Supabase, API Integration
 * **Hardware:** ESP32/Microcontrollers, Sensor Fusion (Radar/I2S Audio), Circuit Logic
-* **Design:** Figma, UI/UX Architecture, Rapid Prototyping
-* **AI/ML:** TensorFlow Lite for Microcontrollers (TinyML), Edge AI, LLM Wrappers
+* **Design:** Figma, Adobe Creative Cloud, Affinity, UI/UX Architecture, Rapid Prototyping
+* **AI/ML:** TensorFlow Lite for Microcontrollers (TinyML), Edge AI, LLM Wrappers, LangChain
 
-> *"Algorithms are a commodity, execution and data are the moat."*
-
-📫 **Let's connect:** [Link to your LinkedIn Profile]
+📫 **Let's connect: 
