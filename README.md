@@ -40,4 +40,4 @@ I believe in building in public and launching fast. Here is what I shipped recen
 * **Design:** Figma, Adobe Creative Cloud, Affinity, UI/UX Architecture, Rapid Prototyping
 * **AI/ML:** TensorFlow Lite for Microcontrollers (TinyML), Edge AI, LLM Wrappers, LangChain
 
-📫 **Let's connect: 
+📫 **Let's connect
