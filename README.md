@@ -13,7 +13,7 @@ I believe in building in public and launching fast. Here is what I shipped recen
 
 * 🌍 **[Lumentario.com](https://lumentario.com) (Launched Feb 2026):** An AI-driven language learning platform that helps users learn Italian through real-world news. Built with advanced AI APIs and Supabase.
 * 🛡️ **Lexia (Chrome Extension):** An automated scanning tool that analyzes websites for GDPR (DSGVO) compliance violations in real-time.
-* 💀 **Skeletonizer (Chrome Extension):** A developer tool built to streamline web development workflows (UI/UX wireframing on the fly).
+* 💀 **Skeletonizer (Chrome Extension):** A developer tool built to streamline web development workflows (UI/UX wireframing on the fly). You can download the extension here: https://chromewebstore.google.com/detail/enjgomaaljedamhiphicalgimohilfmk?utm_source=item-share-cb
 
 ---
 
