@@ -1,4 +1,4 @@
-# Hi, I'm Andreas 👋
+# Andreas (:
 ### 🚀 Bridging the gap between High-End Hardware and Intelligent Software
 
 I am an Information Electronics Technician turned Industrial Engineering student. I don't just write code; I build the interface where the digital world meets physical reality. Over the last years, I've deep-dived into UI/UX design, full-stack development, and hardware-level sensor integration. 
